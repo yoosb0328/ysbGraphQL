@@ -1,0 +1,3 @@
+com/ysblib/ysbGraphQL/ysbGraphQLUtil.class
+com/ysblib/ysbGraphQLException/ResponseErrorException.class
+com/ysblib/ysbGraphQL/QueryStringFactory.class
